@@ -1,0 +1,158 @@
+#usr/bin/bash
+clear
+#ini warna
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+# Recode ajh mmnx
+echo
+echo
+# silahkan di gunakan dengan baik
+echo
+clear
+echo
+echo $ku"                     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶"
+echo $ku"                 ¶¶¶¶¶¶             ¶¶¶¶¶¶¶"
+echo $ku"              ¶¶¶¶                        ¶¶¶¶"
+echo $ku"             ¶¶¶                            ¶¶¶"
+echo $ku"            ¶¶                                ¶¶"
+echo $ku"           ¶¶                                  ¶¶"
+echo $ku"          ¶¶                                   ¶¶"
+echo $ku"          ¶¶´¶¶                             ¶¶´¶¶"
+echo $ku"          ¶¶´¶¶                             ¶¶´´¶"
+echo $ku"          ¶¶´¶¶                             ¶¶´´¶"
+echo $ku"         ¶¶  ¶¶                            ¶¶´¶¶"
+echo $ku"          ¶¶´´¶¶                           ¶¶´´¶¶"
+echo $ku"           ¶¶´¶¶   ¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶   ¶¶´¶¶"
+echo $ku"            ¶¶¶¶´¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶ ¶¶¶¶¶"
+echo $ku"             ¶¶¶´¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶ ¶¶¶"
+echo $ku"    ¶¶¶       ¶¶  ¶¶¶¶¶¶¶¶       ¶¶¶¶¶¶¶¶¶  ¶¶      ¶¶¶¶"
+echo $ku"   ¶¶¶¶¶     ¶¶   ¶¶¶¶¶¶¶   ¶¶¶   ¶¶¶¶¶¶¶   ¶¶     ¶¶¶¶¶¶"
+echo $ku"  ¶¶   ¶¶    ¶¶     ¶¶¶    ¶¶¶¶¶    ¶¶¶     ¶¶    ¶¶   ¶¶"
+echo $ku" ¶¶¶    ¶¶¶¶  ¶¶          ¶¶¶¶¶¶¶          ¶¶  ¶¶¶¶    ¶¶¶"
+echo $ku"¶¶         ¶¶¶¶¶¶¶¶       ¶¶¶¶¶¶¶        ¶¶¶¶¶¶¶¶¶        ¶¶"
+echo $ku"¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶    ¶¶¶¶¶¶¶    ¶¶¶¶¶¶¶¶      ¶¶¶¶¶¶¶¶"
+echo $ku"  ¶¶¶¶ ¶¶¶¶¶      ¶¶¶¶¶              ¶¶¶ ¶¶     ¶¶¶¶¶¶ ¶¶¶"
+echo $ku"       ¶¶¶¶¶¶  ¶¶¶  ¶¶           ¶¶  ¶¶¶  ¶¶¶¶¶¶"
+echo $ku"              ¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶"
+echo $ku"                  ¶¶ ¶¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶¶"
+echo $ku"                ¶¶¶¶  ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶   ¶¶¶¶¶"
+echo $ku"            ¶¶¶¶¶ ¶¶   ¶¶¶¶¶¶¶¶¶¶¶¶¶   ¶¶ ¶¶¶¶¶"
+echo $ku"    ¶¶¶¶¶¶¶¶¶¶     ¶¶                 ¶¶      ¶¶¶¶¶¶¶¶¶"
+echo $ku"   ¶¶           ¶¶¶¶¶¶¶             ¶¶¶¶¶¶¶¶          ¶¶"
+echo $ku"    ¶¶¶     ¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶     ¶¶¶"                                                                            
+echo $ku"      ¶¶   ¶¶¶           ¶¶¶¶¶¶¶¶¶           ¶¶¶   ¶¶"
+echo $ku"      ¶¶  ¶¶                                   ¶¶  ¶¶"
+echo $ku"       ¶¶¶¶                                     ¶¶¶¶"
+echo
+echo
+echo $bi "◁━━━━◈✙◈━━━━▷◁━━━━◈✙◈━━━━▷◁━━━━◈✙◈━━━━▷"
+echo $me "AUTHOR   : ANITA JAS"
+echo $me "YOUTUBE1 :termux android tutorial jaz "
+echo $me "YOUTUBE2  :TERMUX ANDROID
+echo $bi "◁━━━━◈✙◈━━━━▷◁━━━━◈✙◈━━━━▷◁━━━━◈✙◈━━━━▷"
+echo
+echo
+echo "(⌐■-■) PILIH TOLLS(⌐■-■)"
+echo
+echo $bi "[1]"$i" whatsapp spa
+echo $pur →_→→_→→_→→_→→_→→_→→_→→_→→_→→_→→_"
+echo $bi "[2]"$i" whatsapp jail"
+echo $pur" →_→→_→→_→→_→→_→→_→→_→→_→→_→→_→→_"
+echo $bi "[3]"$i" spam telphone"
+echo $pur" →_→→_→→_→→_→→_→→_→→_→→_→→_→→_→→_"
+echo $bi "[4]"$i" darkuota gratis"
+echo $pur" →_→→_→→_→→_→→_→→_→→_→→_→→_→→_→→_"
+echo $bi "[5]"$i" intip sosmed"
+echo $pur" →_→→_→→_→→_→→_→→_→→_→→_→→_→→_→→_"
+echo $bi"[6]"$i" brute fb"
+echo $pur" →_→→_→→_→→_→→_→→_→→_→→_→→_→→_→→_"
+echo $bi"[7]"$i" hack mbf fb"
+echo $pur" →_→→_→→_→→_→→_→→_→→_→→_→→_→→_→→_"
+echo 
+read -p">>>(╭☞•́⍛•̀)╭☞" pil;
+if [ $pil = 1 ]
+then
+clear
+pkg install php -y
+pkg install git -y
+pkg install python2 -y
+git clone https://github.com/Bl4ckDr460n/HxWhatsApp
+ls
+cd HxWhatsApp
+ls
+python2 HxWhatsApp.py
+fi
+#batas gan
+if [ $pil = 2 ]
+then
+clear
+git clone https://github.com/sandiwijayani1/SpamWa
+ls
+cd SpamWa
+ls
+python spam.py
+fi
+#batas gan
+if [ $pil = 3 ]
+then
+clear
+git clone https://github.com/BangDanz/mascall
+ls
+cd mascall
+ls
+sh call.sh
+fi
+#batas gan
+if [ $pil = 4 ]
+then
+clear
+git clone https://github.com/termuxandi/darkkuota
+cd darkkuota
+ls
+sh Darkkuota.sh
+fi
+#batas gan
+if [ $pil = 5 ]
+then
+clear
+git clone https://github.com/zlucifer/paladin_project
+cd paladin_project
+sh paladin.sh
+fi
+#batas gan
+if [ $pil = 6 ]
+then
+clear
+git clone https://github.com/FR13ND8/BruteFb
+ls
+cd BruteFb
+ls
+python2 brute.py
+fi
+#batas gan                                                                                                                                       
+if [ $pil = 7 ]
+then
+clear
+git clone https://github.com/pirmansx/mbf
+ls
+cd mbf
+ls
+python2 MBF.py
+fi
+#batas gan
+if [ $pil = 8 ]
+then
+clear
+figlet -f slant "E X I T"|lolcat
+sleep 2
+echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+sleep 2
+echo $i"WhatsApp :"$i" termux android tutorial jaz"
+echo $bi"Facebook :"$i" termux androi tutorial jas"
+exit
+fi
